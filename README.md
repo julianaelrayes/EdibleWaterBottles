@@ -23,5 +23,7 @@ continuamente.
 * Elaborar la botella comestible.
 * Demostrar la efectividad de la botella.
 
+## Anexos
+
 <img width="204" alt="image" src="https://user-images.githubusercontent.com/95254925/163449056-18d198a7-64fd-4dad-9364-26c7d4c32698.png">
 <img width="202" alt="image" src="https://user-images.githubusercontent.com/95254925/163449123-79a9f402-8de6-4bbc-8e2a-f15a963a9684.png">
